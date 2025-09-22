@@ -1,2 +1,3 @@
 # 100-day-code
-100 day codes (daily codes)
+day1 to day 10 codes
+20 question in total
